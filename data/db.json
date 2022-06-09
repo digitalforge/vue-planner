@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage Banner",
+      "details": "This is the stuff that dreams are made of",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Another ne wone",
+      "details": "I spelt it wrong... is spelt a word? Yes",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
